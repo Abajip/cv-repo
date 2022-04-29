@@ -1,2 +1,2 @@
 # cv-repo
-build cv template
+build cv template!
